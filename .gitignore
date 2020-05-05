@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DDDSample
+/DDDSample.Logic/bin
+/DDDSample.Logic/obj
+/DDDSample.Test/bin
+/DDDSample.Test/obj
+/DDDSample.View/bin
+/DDDSample.View/obj
+/DDDSample.ViewModel/bin
+/DDDSample.ViewModel/obj
